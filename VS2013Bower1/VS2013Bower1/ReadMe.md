@@ -26,7 +26,7 @@ npm -v
 ### install bower
 1. open `manage nuget packages`
 2. online / search for bower
-3. install `bower`
+3. install `bower`  
 ![alt text](Images/bower1.png?raw=true "add cpu")
 
 ### init bower
