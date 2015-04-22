@@ -1,6 +1,55 @@
 # BOWER & VS213
 
-create project wrb-project
+### install chocolatey
+https://chocolatey.org/
+
+
+### install node.js  
+Node.js is runtime environment for server-side applications.  Node.js applications are written in javascript and run in node.js runtime.
+
+check `nodejs` already installed
+```
+> node --version  
+```
+install `nodejs`  
+```
+> choco nodejs  
+```
+upgrade `nodejs`  
+```
+> choco upgrade nodejs
+```
+
+### install npm
+Npm is a package manager for javascript, is the default for node.js, after installing node.js, the npm as already installed.
+
+check `npm` already installed
+```
+> npm --version  
+```
+install `npm`  
+```
+> choco nodejs  
+```
+upgrade `nodejs`  
+```
+> choco upgrade nodejs
+```
+
+### install bower
+check `bower` already installed
+```
+> bower --version  
+```
+install `bower`  
+```
+> npm install -g bower
+```
+
+
+
+
+create project web-project
 
 ### delete current packages
 1. open de package manager console
@@ -11,23 +60,13 @@ create project wrb-project
 6. uninstall-package jQuery
 7. uninstall-package bootstrap
 
-Bower need `git`, `npm`, `nodejs`
-
-> check if 'git' is installed
-```
-git --version
-```
-
-> check if 'npm' is installed
-```
-npm -v
-```
 
 ### install bower
 1. open `manage nuget packages`
 2. online / search for bower
 3. install `bower`  
 ![alt text](Images/bower1.png?raw=true "add cpu")
+
 
 ### init bower
 1. open `command prompt` as administrator
