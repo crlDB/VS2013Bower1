@@ -1,0 +1,16 @@
+{
+  "name": "VS2013Bower2",
+  "version": "0.0.0",
+  "homepage": "https://github.com/crlDB/VS2013Bower1",
+  "authors": [
+    "crlDB <carl.debels@telenet.be>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
