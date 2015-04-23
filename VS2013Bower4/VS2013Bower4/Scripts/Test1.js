@@ -3,7 +3,7 @@ var bConfig = bConfig || {};
 
 //Opstart belgoCip
 $(document).ready(function () {
-
+    $('#seltest1').select2();
 
 
     var data = {

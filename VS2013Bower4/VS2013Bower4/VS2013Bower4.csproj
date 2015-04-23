@@ -179,6 +179,11 @@
     <Content Include="Content\bower_components\jquery\dist\jquery.js" />
     <Content Include="Content\bower_components\jspanel\source\jquery.jspanel.css" />
     <Content Include="Content\bower_components\jspanel\source\jquery.jspanel.js" />
+    <Content Include="Content\bower_components\select2\select2-spinner.gif" />
+    <Content Include="Content\bower_components\select2\select2.css" />
+    <Content Include="Content\bower_components\select2\select2.js" />
+    <Content Include="Content\bower_components\select2\select2.png" />
+    <Content Include="Content\bower_components\select2\select2x2.png" />
     <Content Include="Content\bower_components\underscore\underscore.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />

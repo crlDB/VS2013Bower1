@@ -24,6 +24,7 @@
     "jspanel": "~2.4.1",
     "alertifyjs": "~0.3.16",
     "underscore": "^1.8.3",
-    "chartjs": "~1.0.2"
+    "chartjs": "~1.0.2",
+    "select2": "~3.5.2"
   }
 }
