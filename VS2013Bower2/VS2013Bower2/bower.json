@@ -12,5 +12,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "colorbox": "~1.6.0",
+    "jquery": "~2.1.3",
+    "handsontable": "~0.14.1"
+  }
 }

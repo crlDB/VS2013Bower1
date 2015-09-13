@@ -20,6 +20,7 @@ namespace VS2013Bower4
                 
                 
                 
+                
                 .Include("~/Content/bower_components/jquery/dist/jquery.js")
                 .Include("~/Content/bower_components/zeroclipboard/dist/ZeroClipboard.js")
                 .Include("~/Content/bower_components/moment/moment.js")
@@ -44,12 +45,12 @@ namespace VS2013Bower4
                 
                 
                 
+                
                 .Include("~/Content/bower_components/pikaday/css/pikaday.css")
                 .Include("~/Content/bower_components/handsontable/dist/handsontable.full.css")
                 .Include("~/Content/bower_components/bootstrap/dist/css/bootstrap.css")
                 .Include("~/Content/bower_components/animate.css/animate.css")
                 .Include("~/Content/bower_components/jspanel/source/jquery.jspanel.css")
-                .Include("~/Content/bower_components/alertifyjs/dist/css/alertify.css")
                 .Include("~/Content/bower_components/select2/select2.css")
                 // endbower
                 );

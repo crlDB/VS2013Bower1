@@ -36,9 +36,9 @@ $(document).ready(function () {
 
     // jspanel
     $.jsPanel({
-        title: 'Bootstrap <small>Theme Danger</small>',
+        title: 'Carl De Bels',
         content: '<div id="example"></div>',
-        bootstrap: 'danger',
+        theme: 'dark',
         position: 'center'
     });
 
